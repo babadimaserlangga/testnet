@@ -42,7 +42,7 @@ echo -e "NODE VERSION   : \e[1m\e[35m$VERSION\e[0m"
 echo -e "NODE FOLDER    : \e[1m\e[35m$FOLDER\e[0m"
 echo -e "NODE DENOM     : \e[1m\e[35m$DENOM\e[0m"
 echo -e "NODE ENGINE    : \e[1m\e[35m$COSMOVISOR\e[0m"
-echo -e "SOURCE CODE    : \e[1m\e[35m$SOURCE\e[0m"
+echo -e "SOURCE CODE    : \e[1m\e[35m$REPO\e[0m"
 echo -e "NODE PORT      : \e[1m\e[35m$PORT\e[0m"
 echo ""
 
